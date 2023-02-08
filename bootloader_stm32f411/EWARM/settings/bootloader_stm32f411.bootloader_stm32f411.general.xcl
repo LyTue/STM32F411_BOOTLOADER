@@ -1,0 +1,15 @@
+"D:\IAR for ARM\arm\bin\armPROC.dll" 
+
+"D:\IAR for ARM\arm\bin\armSTLINK.dll" 
+
+"E:\Udemy\STM32F4 Bootloader - CER\bootloader\bootloader_stm32f411\EWARM\bootloader_stm32f411\Exe\bootloader_stm32f411.out" 
+
+--plugin="D:\IAR for ARM\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR for ARM\arm/config/debugger/ST/STM32F4xx.dmac" 
+
+--flash_loader="D:\IAR for ARM\arm/config/flashloader/ST/FlashSTM32F411xE.board" 
+
+
+
+
